@@ -9,5 +9,4 @@
 Com o Hive, utilizei LazyBoxes para salvar, buscar e deletar as moedas favoritas. Com LazyBoxes, os valores não ficam salvos na memória. Cada vez que um valor é lido, ele é carregado do back-end.
 </p>
 
-
-![ima2ge899](https://user-images.githubusercontent.com/9465347/174937172-71d80c2c-b90c-4cf5-bc06-101db3555ccb.png)
+![ima2ge899](https://user-images.githubusercontent.com/9465347/174937572-e1cda899-d79e-4ccd-9e18-a8967e26ba06.png)
