@@ -25,6 +25,7 @@ class _MyAppState extends State<MyApp> {
             primarySwatch: Colors.blueGrey,
             primaryColor: Colors.indigo,
           ),
+          debugShowCheckedModeBanner: false,
           home: const HomePage(),
         )
     );
