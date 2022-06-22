@@ -1,4 +1,4 @@
-# graficos
+# Carteira de Criptomoedas - exibindo gráfico.
 
 <p>Aplicativo desenvolvido em Flutter e com banco de dados SQLite - banco interno do Android.</p>
 <p>O projeto simula uma carteira digital de criptomoedas e a medida que se vai comprando criptomoedas, é possível ver a quantidade de cada uma em forma de gráfico. <br />Foi utilizada a biblioteca fl_chart para a criação de gráficos. Foi também utilizado Provider para comunicação das atualizações de compra, inserção de dinheiro, adição de favoritos. Nas classes onde as manipulações de dados acontecem, usei ChangeNotifier e a função notifyListeners() para enviar as informações atualizadas para os ouvintes.</p>
